@@ -1,0 +1,6 @@
+2017-08-19T13:25:58+00:00 DEBUG mollie_wc_gateway_paypal: Create payment for order 53
+2017-08-19T13:25:59+00:00 DEBUG mollie_wc_gateway_paypal: Payment tr_qzvyTcGtqx (test) created for order 53
+2017-08-19T13:25:59+00:00 DEBUG Redirect user to payment URL: https://www.mollie.com/testmode/paypal/?transaction_id=EC-YIqhtxHHeFaYfgk6n
+2017-08-19T13:28:48+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-08-19T13:42:11+00:00 DEBUG mollie_wc_gateway_paypal: Mollie payment tr_qzvyTcGtqx (test) webhook call for order 53.
+2017-08-19T13:42:11+00:00 DEBUG Mollie_WC_Gateway_Abstract::onWebhookExpired called.

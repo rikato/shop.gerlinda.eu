@@ -1,0 +1,11 @@
+2017-11-06T16:22:06+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:22:25+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:24:26+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:25:39+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:26:32+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:30:11+00:00 DEBUG Mollie_WC_Helper_Data::deleteTransients: Mollie settings saved, delete transients
+2017-11-06T16:30:20+00:00 DEBUG mollie_wc_gateway_ideal: Create payment for order 67
+2017-11-06T16:30:21+00:00 DEBUG mollie_wc_gateway_ideal: Payment tr_dRGt8RTa6K (test) created for order 67
+2017-11-06T16:30:21+00:00 DEBUG For order 67 redirect user to payment URL: https://www.mollie.com/paymentscreen/testmode/?method=ideal&token=3mfbsp
+2017-11-06T16:47:08+00:00 DEBUG mollie_wc_gateway_ideal: Mollie payment tr_dRGt8RTa6K (test) webhook call for order 67.
+2017-11-06T16:47:08+00:00 DEBUG Mollie_WC_Gateway_Abstract::onWebhookExpired called for order 67
