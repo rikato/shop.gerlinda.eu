@@ -1,6 +1,0 @@
-07-20-2017 @ 09:44:11 - getPayment: Could not load payment tr_j84AaJrcP6 (test): Error executing API call (request): The payment id is invalid. (Mollie_API_Exception)
-07-20-2017 @ 09:44:54 - mollie_wc_gateway_ideal: Create payment for order 48
-07-20-2017 @ 09:44:54 - mollie_wc_gateway_ideal: Payment tr_Qz6UzvG4eJ (test) created for order 48
-07-20-2017 @ 09:44:54 - Redirect user to payment URL: https://www.mollie.com/paymentscreen/ideal/testmode?transaction_id=4bf935f042ce76ab77e5a675e59fb6bf&bank_trxid=0000000003049984
-07-20-2017 @ 10:01:15 - mollie_wc_gateway_ideal: Mollie payment tr_Qz6UzvG4eJ (test) webhook call for order 48.
-07-20-2017 @ 10:01:15 - Mollie_WC_Gateway_Abstract::onWebhookExpired called.

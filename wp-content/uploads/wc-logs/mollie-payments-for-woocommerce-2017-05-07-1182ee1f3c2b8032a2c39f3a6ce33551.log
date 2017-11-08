@@ -1,5 +1,0 @@
-05-07-2017 @ 20:40:37 - mollie_wc_gateway_ideal: Create payment for order 43
-05-07-2017 @ 20:40:37 - mollie_wc_gateway_ideal: Payment tr_6pGC3FWdRF (test) created for order 43
-05-07-2017 @ 20:40:37 - Redirect user to payment URL: https://www.mollie.com/paymentscreen/ideal/testmode?transaction_id=677641dfcec2f1f7cbda1b55186c2595&bank_trxid=0000000003049984
-05-07-2017 @ 20:57:10 - mollie_wc_gateway_ideal: Mollie payment tr_6pGC3FWdRF (test) webhook call for order 43.
-05-07-2017 @ 20:57:10 - Mollie_WC_Gateway_Abstract::onWebhookExpired called.
