@@ -1,0 +1,18 @@
+06-06-2017 @ 21:10:48 - mollie_wc_gateway_ideal: Create payment for order 44
+06-06-2017 @ 21:10:49 - mollie_wc_gateway_ideal: Payment tr_e37c7sQCMV (test) created for order 44
+06-06-2017 @ 21:10:49 - Redirect user to payment URL: https://www.mollie.com/paymentscreen/ideal/testmode?transaction_id=21bfaecfa23233bab3deae5fd03e11a7&bank_trxid=0000000003049984
+06-06-2017 @ 21:16:21 - mollie_wc_gateway_paypal: Create payment for order 46
+06-06-2017 @ 21:16:21 - mollie_wc_gateway_paypal: Payment tr_hdeTNRabgq (test) created for order 46
+06-06-2017 @ 21:16:21 - Redirect user to payment URL: https://www.mollie.com/testmode/paypal/?transaction_id=EC-NhmYEs5vmEyqqMKGq
+06-06-2017 @ 21:22:00 - mollie_wc_gateway_paypal: Create payment for order 47
+06-06-2017 @ 21:22:01 - mollie_wc_gateway_paypal: Payment tr_j84AaJrcP6 (test) created for order 47
+06-06-2017 @ 21:22:01 - Redirect user to payment URL: https://www.mollie.com/testmode/paypal/?transaction_id=EC-vjxLMY8VQKvSeI5OG
+06-06-2017 @ 21:27:32 - mollie_wc_gateway_ideal: Order 44 does not need a payment (payment webhook tr_e37c7sQCMV).
+06-06-2017 @ 21:28:04 - mollie_wc_gateway_ideal: Create payment for order 47
+06-06-2017 @ 21:28:04 - mollie_wc_gateway_ideal: Payment tr_6VBQ9vNj8R (test) created for order 47
+06-06-2017 @ 21:28:05 - Redirect user to payment URL: https://www.mollie.com/paymentscreen/ideal/testmode?transaction_id=9101b92ff2b48d3d4a370cbb8ae9a148&bank_trxid=0000000003049984
+06-06-2017 @ 21:33:13 - mollie_wc_gateway_paypal: Mollie payment tr_hdeTNRabgq (test) webhook call for order 46.
+06-06-2017 @ 21:33:13 - Mollie_WC_Gateway_Abstract::onWebhookExpired called.
+06-06-2017 @ 21:39:10 - mollie_wc_gateway_paypal: Mollie payment tr_j84AaJrcP6 (test) webhook call for order 47.
+06-06-2017 @ 21:39:10 - Mollie_WC_Gateway_Abstract::onWebhookExpired called.
+06-06-2017 @ 21:45:14 - mollie_wc_gateway_ideal: Order 47 does not need a payment (payment webhook tr_6VBQ9vNj8R).
